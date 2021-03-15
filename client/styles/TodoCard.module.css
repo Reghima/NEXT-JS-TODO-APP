@@ -1,0 +1,9 @@
+.editTodoHidden{
+    display: none;
+}
+.editTodoActive{
+    display: flex;
+}
+.innerContainer{
+    display: flex;
+}
